@@ -1,0 +1,17 @@
+# Supabase Configuration
+REACT_APP_SUPABASE_URL=your_supabase_project_url
+REACT_APP_SUPABASE_KEY=your_supabase_anon_key
+
+# Stripe Configuration
+REACT_APP_STRIPE_KEY=your_stripe_publishable_key
+
+# EmailJS Configuration
+REACT_APP_EMAILJS_USER=your_emailjs_user_id
+REACT_APP_EMAILJS_SERVICE=your_emailjs_service_id
+REACT_APP_EMAILJS_TEMPLATE=your_emailjs_template_id
+
+# Google Maps API
+REACT_APP_GOOGLE_API_KEY=your_google_maps_api_key
+
+# Environment
+REACT_APP_ENV=development
